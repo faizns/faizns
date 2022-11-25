@@ -10,4 +10,9 @@ I’m Faiz, an aspiring data scientist.
 - 👩🏻‍💻 Currently taking Data Science Bootcamp
 
 ## 📚 Project 📚
-- Project Data Analysis : [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
+### 📌 SQL
+- [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
+- *On progress* ➡️ [SQL Data Exploration: Analyzing Covid-19 in Indonesia](https://github.com/faizns/SQL-Data-Exploration-Analyzing-Covid-19-in-Indonesia)
+
+### 📌 Python
+- [Python Programming : Build A Streamlit Web App](https://github.com/faizns/project-python-fga)
