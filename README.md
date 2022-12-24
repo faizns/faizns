@@ -1,4 +1,5 @@
 # Hi there! 👋 
+![](https://komarev.com/ghpvc/?username=faizns&style=flat-square)
 
 I’m Faiz, an aspiring data scientist.
 
