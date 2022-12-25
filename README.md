@@ -11,6 +11,9 @@ I’m Faiz, an aspiring data scientist.
 - 👩🏻‍💻 Currently taking Data Science Bootcamp
 
 ## 📚 Project 📚
+### 📌 VIX
+- *Current* ➡️ KPMG, AU | Data Analytics
+
 ### 📌 SQL
 - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
 - *On progress* ➡️ [SQL Data Exploration: Analyzing Covid-19 in Indonesia](https://github.com/faizns/SQL-Data-Exploration-Analyzing-Covid-19-in-Indonesia)
