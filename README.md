@@ -10,13 +10,6 @@ I’m Faiz, an aspiring data scientist.
 - 👩🏻‍💻 Currently taking Data Science Bootcamp
 
 ## 📚 Project 📚
-### 📌 VIX
-- *Current* ➡️ KPMG, AU | Data Analytics
-
-### 📌 SQL
-- [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
-- *On progress* ➡️ [SQL Data Exploration: Analyzing Covid-19 in Indonesia](https://github.com/faizns/SQL-Data-Exploration-Analyzing-Covid-19-in-Indonesia)
-
-### 📌 Python
 - *On progress* ➡️ [Airline Customer Segmentation LRFMC Model using KMeans](https://github.com/faizns/Airline-Customer-Segmentation-LRFMC-Model-using-KMeans)
-- [Python Programming : Build A Streamlit Web App](https://github.com/faizns/project-python-fga)
+- [Online Shoppers Purchasing Intention](https://github.com/faizns/Online-Shoppers-Purchasing-Intention)
+- [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
