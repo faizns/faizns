@@ -10,6 +10,6 @@ I’m Faiz, an aspiring data scientist.
 - 👩🏻‍💻 Currently taking Data Science Bootcamp
 
 ## 📚 Project 📚
-- *On progress* ➡️ [Airline Customer Segmentation LRFMC Model using KMeans](https://github.com/faizns/Airline-Customer-Segmentation-LRFMC-Model-using-KMeans)
 - [Online Shoppers Purchasing Intention](https://github.com/faizns/Online-Shoppers-Purchasing-Intention)
+- [Airline Customer Segmentation Based on LRFMC Model Using K-Means](https://github.com/faizns/Airline-Customer-Segmentation-LRFMC-Model-using-KMeans)
 - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
