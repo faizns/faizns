@@ -1,5 +1,5 @@
 # **Hi there!** 👋🏼
-I’m Faiz, aspiring data analyst or scientist with a marine science study background. Enjoy working with numbers and loves learning and exploring new skills. Currently, I'm transitioning to data since April 2021.
+I’m Faiz, an aspiring data analyst or scientist with a marine science study background. Enjoy working with numbers and loves learning and exploring new skills. I'm currently transitioning to data since April 2021.
 
 ### 📚 **Currently Courses and Projects**
 - [8WeekSQLChallenge](https://github.com/faizns/8-Week-SQL-Challenge)
@@ -7,25 +7,20 @@ I’m Faiz, aspiring data analyst or scientist with a marine science study backg
 - Udacity: SQL for Data Analysis
 - Udacity: Data Visualization with Tableau
 
-### 📂 **My Projects**
+### 📂 **Projects**
 - [Online Shoppers Purchasing Intention](https://github.com/faizns/Online-Shoppers-Purchasing-Intention)
 - [Airline Customer Segmentation Based on LRFMC Model Using K-Means](https://github.com/faizns/Airline-Customer-Segmentation-LRFMC-Model-using-KMeans)
 - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
 
-### 💻 **My Skills**
+### 💻 **Competencies**
 - Data preparation, data manipulation, and data cleansing
 - Exploratory data analysis
 - Descriptive statistic
 - Mechine learning: supervised and unsupervised
 
-### 🪛 **My Tools**
+### 🪛 **Tools**
 - Excel/spreadsheet
 - SQL (Postgresql, MySQL, SQL Server)
 - Python (Library: numpy, pandas, SciPy, sklearn)
 - Visualization: Tableau, matplotlib, seaborn
 - Streamlit
-
-### 🙌🏼 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/faizns/)
-
-
