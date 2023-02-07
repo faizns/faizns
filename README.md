@@ -8,6 +8,7 @@ I’m Faiz, an aspiring data analyst or scientist with a marine science study ba
 - Udacity: Data Visualization with Tableau
 
 ### 📂 **Projects**
+- [**Here's**](https://github.com/faizns/Faizs-Data-Portofolio) **my portfolio**
 - [Online Shoppers Purchasing Intention](https://github.com/faizns/Online-Shoppers-Purchasing-Intention)
 - [Airline Customer Segmentation Based on LRFMC Model Using K-Means](https://github.com/faizns/Airline-Customer-Segmentation-LRFMC-Model-using-KMeans)
 - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
