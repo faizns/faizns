@@ -1,5 +1,5 @@
 # **Hi there!** 👋🏼
-I’m Faiz, an aspiring data analyst or scientist with a marine science study background. Enjoy working with numbers and loves learning and exploring new skills. I'm currently transitioning to data since April 2021.
+I’m Faiz, an aspiring data analyst or scientist with a marine science study background. Enjoy working with numbers and loves learning and exploring new skills. I'm currently transitioning to data since April 2022.
 
 ### 📚 **Currently Courses and Projects**
 - [8WeekSQLChallenge](https://github.com/faizns/8-Week-SQL-Challenge)
